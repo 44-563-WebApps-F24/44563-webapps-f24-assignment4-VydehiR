@@ -1,0 +1,21 @@
+.speech {
+    font-family:  'Arial', Helvetica, sans-serif  ;
+    font-size: 18px;
+    color: black;
+}
+.direction {
+    font-family: 'Courier New', Courier, monospace;
+    font: size 18px;
+    color: black;
+    background-color: #f0f8ff;
+}
+.direction:hover{
+    background-color: #faebd7;
+    color: #16e215;
+}
+.OD {
+    color: orange;
+}
+.PHI {
+    color: pink;
+}
