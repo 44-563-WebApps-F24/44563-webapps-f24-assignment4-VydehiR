@@ -39,3 +39,10 @@ tr{
 tr:nth-child(even){
     background-color: #b9ebf2;
 }
+
+h6:hover{
+    text-shadow: 4px 4px 8px brown;
+    border: 2px dotted yellowgreen;
+    padding: 5px;
+    transition: all 0.3s ease;
+}
