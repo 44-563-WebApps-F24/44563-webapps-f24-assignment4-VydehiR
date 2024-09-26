@@ -50,7 +50,7 @@ h6:hover{
 .navbar{
     background-color: yellow;
     overflow: scroll;
-    position: absolute;
+    position: hidden;
     bottom: 0;
     width: 100%;
     text-align: center;
