@@ -46,3 +46,39 @@ h6:hover{
     padding: 5px;
     transition: all 0.3s ease;
 }
+/* Bonus */
+.navbar{
+    background-color: yellow;
+    overflow: scroll;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.navbar ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.navbar li{
+    display: inline;
+    margin: 0 15px;
+}
+.navbar a{
+    display: inline-block;
+    color: lightcyan;
+    padding: 13px 22px;
+    text-decoration: none;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: #eee;
+    color: brown;
+}
+
+.navbar img{
+    vertical-align: baseline;
+    margin-right: 10px;
+    height: 18px;
+}
